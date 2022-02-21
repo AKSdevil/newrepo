@@ -1,0 +1,47 @@
+
+h1{
+  font-family:cursive;
+  font-style: italic;
+    font-size: 100px;
+    color: white;
+}
+
+h3{
+  font-family:cursive;
+  font-style:oblique;
+  color: white;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+form {
+  width: 50%;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  color:black;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+#a{
+  font-size: 30px;
+  font-style:italic;
+  font-family:cursive;
+  background-color: black;
+
+}
